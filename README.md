@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Lilitha Njanya 👋</h1>
 
-<!--
-**Lilitha-prog/Lilitha-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+I’m a **Software Development Graduate** passionate about creating **software solutions** to tackle real-world challenges.  
+Currently, I’m building a **portfolio of projects** to showcase my skills in **Web, Backend, and Mobile Development**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Technologies  
+**💻 Backend Development:**  
+- C# | Java | Kotlin  
+
+**🌐 Frontend Development:**  
+- HTML | CSS | JavaScript  
+
+**📊 Database Management:**  
+- SQL | MySQL  
+
+**🛠️ Tools & IDEs:**  
+- Visual Studio | VS Code | Android Studio | NetBeans  
+
+---
+
+## 🌱 Currently Learning  
+📌 **Full-Stack Development** – Improving my ability to develop and integrate frontend & backend solutions  
+📌 **API Integrations** – Fetching & processing data from web services  
+📌 **Clean Code Best Practices** – Writing efficient, maintainable code  
+📌 **GitHub Workflow** – Managing repositories & version control  
+
+---
+
+### 💬 Ask Me About  
+✔ **Web Development** (HTML, CSS, JavaScript)  
+✔ **Backend Development** (C#, Java, Kotlin)  
+✔ **Databases** (SQL, MySQL)  
+✔ **Git & GitHub Workflow**  
+
+---
+
+## 📂 Portfolio Projects  
+🚀 **Sinqana Development Foundation** *(Coming Soon!)*  
+🔨 **More projects will be added as I build my portfolio! Stay tuned.**  
+
+---
+
+## 📫 Let's Connect!  
+💼 **LinkedIn:** [Your LinkedIn Profile](your-linkedin-url)  
+📧 **Email:** lilithanjanya12@gmail.com  
+
+---
+
+<p align="center">
+  🚀 *Follow my journey as I build my portfolio and grow as a developer!*
+</p>
